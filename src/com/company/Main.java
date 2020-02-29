@@ -17,5 +17,7 @@ public class Main {
 	System.out.println("zaliczenie");
 	System.out.println("zaliczenie");
 	System.out.println("zaliczenie");
+	System.out.println("zaliczenie");
+	System.out.println("zaliczenie");
     }
 }
