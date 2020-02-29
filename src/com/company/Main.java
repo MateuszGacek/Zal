@@ -7,7 +7,7 @@ public class Main {
 	System.out.println("aasdaDsasdasdda");
 	System.out.println("aasdaDsasdasdda");
 
-	
+
 	System.out.println("zaliczenie");
     }
 }
