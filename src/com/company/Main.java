@@ -6,6 +6,8 @@ public class Main {
 	System.out.println("aasdasasdasdda");
 	System.out.println("aasdaDsasdasdda");
 	System.out.println("aasdaDsasdasdda");
-	System.out.println("aasdaDsasdasdda");
+
+	
+	System.out.println("zaliczenie");
     }
 }
